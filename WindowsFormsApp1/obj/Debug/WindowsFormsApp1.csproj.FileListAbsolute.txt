@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\labs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\labs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\labs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+F:\labs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
